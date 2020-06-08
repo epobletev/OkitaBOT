@@ -1,0 +1,113 @@
+{
+    "resultwar": [
+        "got murdered in a Master battle.",
+        "was the first one to die, murdered by an Assassin-class.",
+        "got defeated in battle but they survived.",
+        "got defeated in battle and was killed.",
+        "won the Holy Grail War and married their Servant!",
+        "got ran over by a car and died.",
+        "got killed by their own servant.",
+        "they handled Gilgamesh by themselves.",
+        "they died to 32 Noble Phantasm.",
+        "was evaporated by a sword beam and died.",
+        "they died by getting nuked by an insta-NP from a break bar.",
+        "they won the HGW and said their goodbyes.",
+        "they won the HGW and they never saw their Servant again...",
+        "got stabbed in the back by another master.",
+        "got their heart ripped off by Zabanya",
+        "got turned into a pig and eaten.",
+        "got their eyes slashed off and then killed.",
+        "pumped too much magical energy into his servant and died.",
+        "died, but got revived by doctor Gil and won the HGW.",
+        "decided to marry his servant instead and fled the HGW.",
+        "died because he got wormed too hard.",
+        "persisted on becoming a superhero and died.",
+        "drowned in infinite rice.",
+        "fell into the grail mud and died.",
+        "accidentally got teleported into Gensokyo and spent the rest of their lives there.",
+        "got eaten by the sakura's shadow tentacle monster thing.",
+        "lost to Nero's plot armor."
+    ],
+    "randomtextgrail": [
+        "Their low mana reserves reduced their Servant's stats by one rank!",
+        "Their very low mana reserves reduced their Servant's stats by two ranks!",
+        "They used chicken blood for the summoning circle.",
+        "They summoned it by accident!",
+        "They summoned it normally.",
+        "They used spit to summon it.",
+        "They summoned it with the help of crest worms.",
+        "They summoned their servant with Madness Enhancement",
+        "They summoned their servant with a human sacrifice"
+    ],
+    "answerball": [
+        "I agree.",
+        "Maybe",
+        "Umm... This is hard to say",
+        "I'll give you Okita-san's seal of approval!",
+        "No!",
+        "COUGH!"
+    ],
+    "relevant": [
+        "Pudding",
+        "Mode",
+        "Aniki",
+        "Overkill",
+        "Don",
+        "Armando",
+        "Sayaka",
+        "KoO"
+    ],
+    "meme": [
+        "Can't believe **Mode** runs like Naruto IRL.",
+        "Can't believe **Pudding** stole money from his mom for MHW.",
+        "Can't believe **Aniki** waterboards himself.",
+        "Can't believe **Pudding** is a griefer.",
+        "Can't believe **Overkill** is making everyone wait AGAIN.",
+        "Can't believe **Mode** is making everyone wait AGAIN."
+    ],
+    "ratefgo": [2, 10, 40],
+
+    "servantid5": ["002", "008", "012", "037", "051", "052", "059", "060", "062", "065", "068", "070", "075", "076", "077", "084", "085", "086", "088",
+        "090", "091", "093", "096", "097", "098", "099", "106", "108", "112", "113", "114", "118", "119", "127", "128", "129", "136", "139",
+        "142", "143", "144", "150", "153", "154", "155", "156", "160", "161", "163", "167", "169", "173", "175", "179", "189", "195", "196",
+        "198", "199", "201", "205", "206", "209", "212", "213", "215", "216", "220"
+    ],
+
+    "servantid4": ["003", "004", "005", "006", "010", "011", "014", "018", "029", "030", "041", "046", "047", "048", "058", "061", "066", "067", "069",
+        "073", "074", "078", "082", "087", "089", "092", "094", "100", "101", "102", "103", "109", "111", "115", "116", "120", "122", "123",
+        "130", "131", "132", "133", "135", "137", "138", "140", "141", "145", "146", "147", "157", "158", "159", "162", "164", "165", "166",
+        "170", "171", "176", "177", "178", "180", "181", "182", "183", "184", "185", "187", "188", "190", "191", "192", "193", "194", "197",
+        "200", "202", "207", "208", "211", "214", "217", "218", "219", "221", "222"
+    ],
+
+    "servantid3": ["007", "009", "013", "015", "017", "020", "022", "023", "026", "027", "028", "031", "032", "035", "038", "042", "049", "055",
+        "056", "063", "064", "071", "072", "079", "080", "081", "095", "104", "105", "110", "117", "124", "125", "126", "148", "172", "186",
+        "203", "204", "210"
+    ],
+
+
+    "randomnpname": ["Excalibur", "Destroyer", "Enuma", "BTFO", "Epic", "Tranquilizer", "Le", "Dab", "Ultra", "Toaster",
+        "Melt", "Water", "Thunder", "Overload", "Brave", "Divine ", "Figure", "Wheel", "Destruction", "Frog", "Funny", "Clown", "Six", "Stella",
+        "Jets", "Wrong", "Explotion", "Disgusting", "Monster", "Hunter", "World", "Earth", "Sick", "Meme", "Killer", "Kill", "Genocide", "Hug"
+    ],
+
+    "nptype": ["Anti-Unit", "Anti-Army", "Anti-World", "Anti-Fortress", "Anti-Divine", "Anti-Demon", "Anti-Country", "Anti-Planet", "Anti-Humanity", "Barrier", "Fortress", "Suicide"],
+
+    "npdamage": ["500%", "1000%", "300%", "600%", "1200%"],
+
+    "nprank": ["EX", "A++", "A+", "A", "A-", "B+++", "B++", "B+", "B", "B-", "C+++", "C++", "C+", "C", "C-", "D+", "D", "D-",
+        "E", "E-", "?"
+    ],
+
+    "fgocards": ["Quick", "Buster", "Arts"],
+
+   "okitapic" :[
+        "https://i.imgur.com/Cp7FkmT.jpg",
+        "https://i.imgur.com/sFGQw1P.png",
+        "https://i.imgur.com/onglIwt.jpg",
+        "https://i.imgur.com/agTpgUS.jpg",
+        "https://i.imgur.com/wMCqa91.jpg"
+      ]
+
+
+}
