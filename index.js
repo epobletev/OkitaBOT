@@ -14,7 +14,7 @@ fs.readdir("./commands/", (err, files) => {
         console.log("Couldn't find commands.");
         return;
     }
-//test
+
     jsfile.forEach((f, i) =>{
         let props = require(`./commands/${f}`);
         console.log(`${f} loaded!`);
